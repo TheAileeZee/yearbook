@@ -1,0 +1,14 @@
+  #container {
+		  width: 600px;
+		  margin: 0 auto; 
+		}
+
+		#container {
+		   border-style: solid;
+		   border-width: 1px;
+		}
+
+		#pic {
+			border-style: solid;
+			border-width: 1px;
+		}
